@@ -1,0 +1,107 @@
+.headLeft{
+	 margin-left: 65px;
+	 font-size: 25px;
+    color: #009688;
+}
+.headRight{
+	margin-left: 800px;
+	color: #009688;
+}
+.headRight1{
+	margin-left: 13px;
+	color: #009688;
+}
+.headLine{
+	margin-left: 65px;
+    margin-right: 65px;
+    margin-top: 24px;
+}
+.divForm{
+	 border: solid;
+    margin-top: 30px;
+    margin-left: 370px;
+    border-color: darkgray;
+    margin-right: 408px;
+    border-radius: 11px;
+}
+.formHead{
+margin: 20px;
+    color: white;}
+	h4{
+		margin:10px 20px 10px;
+		color: darkgray;
+	}
+	.txt{
+		margin:0px 10px 12px 24px; width: 452px;
+    border-radius: 6px;
+    height: 27px;
+	}
+	h4{
+		margin:10px 20px 10px;
+		color: darkgray;
+	}
+	.radio{
+		margin-left: 20px;
+	}
+	.verText{
+		    margin: 0px 10px 12px 24px;
+    width: 96px;
+    border-radius: 6px;
+    height: 27px;
+	}
+	.select{
+		margin:0px 10px 12px 24px; width: 452px;
+    border-radius: 6px;
+    height: 27px;
+		background-color: #009688;
+		color: white
+		;
+	}
+	.file-upload-button {
+    width: 143px;
+    color: #fff;
+    border: none;
+    background-color: darkgray;
+    float: left;
+    border-bottom-right-radius: 6px;
+	border-top-right-radius: 6px;
+	line-height: 26px;
+}
+.radio1{
+	    margin-left: 199px;
+}
+.file-upload-input {
+    width: 300px;
+    color: #fff;
+    border: none;
+    background-color: white;
+    float: left;
+	border-top-left-radius: 6px;
+    border-bottom-left-radius: 6px;
+	margin-left: 24px;
+	border: solid darkgray;
+	line-height:20px;
+}
+.footer{
+	background-color: whitesmoke;
+    padding-top: 20px;
+    padding-bottom: 13px;
+    border-top: solid darkgray; margin-top:20px
+}
+.footerButton{
+	margin: 9px 350px 10px ;
+    border-radius: 7px;
+    padding-top: 11px;
+    padding-bottom: 11px;
+    padding-left: 14px;
+    padding-right: 14px;
+    background-color: #009688;
+	color: white;
+}
+.divHead{
+	color: gray;
+    background-color: darkgray;
+    border-radius: 0px;
+    line-height: 45px;
+	    padding-top: 1px;
+}

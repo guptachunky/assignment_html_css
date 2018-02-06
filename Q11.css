@@ -1,0 +1,95 @@
+.divForm{
+border: solid #191919;
+    margin-right: 66px;
+    margin-left: 66px;
+	    background-color: white;}
+body{
+	background-color:#262626;
+}
+.formHead{
+	    padding: 40px;
+    background-color: #191919;
+}
+.formMid{
+	background-color:white;
+	padding:25px 0px 8px 119px
+}
+.block{
+	background-color: #191919;
+height: 360px;
+    width: 960px;
+	}
+	#headli{
+		list-style-type: none;
+    color: white;
+    margin-left: 80px;
+    padding: 14px;
+    background-color: gray;
+    margin-right: 25px;
+	}
+	#headli li{
+ display: inline;
+    padding-left: 20px;
+
+	}
+	#para1{
+		    background-color: gainsboro;
+    margin-right: 116px;
+    padding: 17px;
+	}
+	#para2{
+		margin-top: 31px
+	}
+	hr{
+		margin-right: 115px;
+	}
+	footer{
+	background-color: #191919;
+    padding: 20px;
+    color: white;
+	
+	}
+	.footerLeft{
+		margin-left: 80px;
+	}
+	.footerRight{
+		margin-left: 327px;
+			}
+	.spanHead{
+		margin-left: 75px; font-size:26px;color:white;
+	}
+	.img{
+		display: flex;
+		margin-left: -24px;
+		margin-bottom: 30px;
+    margin-right: 29px;
+		}
+	.topDiv{
+		background-color: white;
+		height: 380px;
+		width: 20%;
+		padding: 3px;
+		border: 1px solid black;
+		margin-left:25px
+	}
+	.inDiv{
+		background-color: black;
+		height: 85%;
+		width: 100%;
+	}
+	.div1{
+		background-color: lightgray;
+		height: 15%;
+		width: 100%;
+	}
+	.divimg{
+		text-align: center;
+		display: block;
+		padding-top: 10px;
+	}
+	.div{
+		background-color: lightgray;
+		height: 15%;
+		width: 100%;
+	}
+	
